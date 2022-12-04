@@ -30,3 +30,5 @@ Input memerlukan 3 data yaitu delta pressure, leak rate, dan leak location
 ## Reference
 - Pudjo Sukarno, dkk. 2007. Leak Detection Modeling and Simulation for Oil Pipeline with Artificial Intelligence Method.
 https://ugm365-my.sharepoint.com/:b:/g/personal/aulia_r_365_ugm_ac_id/EZjeNpHYZ_RKtvVcvdg3fHQBFXijc4h21p6xUZApTYXiIA?e=fz4Nio
+- Project Summary
+https://ugm365-my.sharepoint.com/:b:/g/personal/aulia_r_365_ugm_ac_id/EYlWDKJ3x3dDpz-gItX8gRcB-uRkLufbmjbdUEA7mZ74dw?e=4viTl7
