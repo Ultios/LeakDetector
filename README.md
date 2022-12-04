@@ -20,7 +20,7 @@ Secara garis besar, flowchart pemodelan dan evaluasi model dapat dilihat pada ga
 ## Cara Penggunaan
 Cara penggunaan secara detail dapat dilihat di Demo Notebook.
 
-##Dataset
+## Dataset
 Input memerlukan 3 data yaitu delta pressure, leak rate, dan leak location 
 
 ## Kesimpulan
